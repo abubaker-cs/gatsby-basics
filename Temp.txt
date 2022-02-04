@@ -1,0 +1,242 @@
+Simple Recipies (9h12m)
+=======================
+Intro 01:27
+Install gatsby-cli 02:00
+Setup New Project 05:38
+Project Structure 14:35
+First Page 08:44
+Error Page 02:35
+Nested Pages 03:40
+Links 06:40
+Navbar 05:05
+Layout Component 09:18
+CSS Info 01:10
+Inline CSS 01:40
+Global CSS 05:34
+CSS Naming Issues 03:49
+CSS Modules 10:14
+Styled-Components 12:47
+House Cleaning 07:42
+Styles 04:32
+Optional !!! 00:06
+Footer 03:26
+Error Page 01:07
+Contact Page 06:07
+Assets and Icons 07:11
+Navbar Setup 08:55
+Navbar Functionality 04:40
+Gatsby Image Info 03:39
+Sandbox Setup 06:06
+Install Plugin 03:39
+Static Image Setup 07:26
+Shared Props and Options 04:39
+Options Example 07:50
+All Layouts 06:19
+Height 04:35
+About Page 09:52
+Hero Page 06:17
+Gatsby and GraphQL Intro 03:20
+Gatsby DataLayer in a Nutshell 01:41
+GraphiQL Interface 06:15
+siteMetadata 05:39
+First Query 09:13
+Explorer 02:05
+Static Query vs Page Query 01:26
+useStaticQuery Hook - Code Exporter 06:16
+useStaticQuery, graphql - From Scratch 10:31
+Field Alias 03:01
+Query Keyword, Name and Gatsby Clean 03:13
+Page Query 07:01
+Install SOURCE-FILESYSTEM Plugin 10:13
+allFile - Field 06:17
+Query Arguments 08:13
+Static Path Fix 01:23
+file - Field 03:22
+sourceInstanceName - Argument 02:08
+Gallery Setup 03:51
+gatsbyImageData - Field 08:09
+Render Gallery 11:45
+getImage - Helper Function 04:33
+Local vs External Data 01:27
+Headless CMS 01:59
+Contentful Info 00:48
+Setup Contentful Account 03:37
+Content-Type 06:53
+Content 07:29
+Connect Gatsby - Contentful 05:00
+ENV Variables 06:12
+allContentfulRecipe - Field 07:09
+AllRecipes Component 09:03
+RecipesList Component 11:59
+Featured Recipes 10:51
+Utils Setup 04:57
+Helper Function 07:40
+TagsList 03:47
+Tags Page 06:08
+Recipe Template Page Setup 04:35
+Recipe Template Page Walkthrough 09:03
+Slugify 04:07
+Query Variables 08:50
+Recipe Template Query 07:22
+Recipe Template Return 12:18
+GATSBY-NODE.JS Setup 03:58
+Create Tag Template Pages Programmatically 17:53
+Tag Template Return 11:31
+Possible Bug Fix 06:46
+Fonts 05:47
+Contact Form 04:36
+FAVICON 02:07
+SEO - Setup 06:17
+SEO - Props 05:54
+SEO - Complete 09:31
+Netlify Info 00:53
+Netlify - Drag and Drop 03:34
+Netlify - Continuous Deployment 09:12
+Webhooks 04:29
+
+Portfolio Project (3h17m)
+================
+Intro 00:57
+Starter Files 00:08
+Install Starter 01:56
+Project Overview 07:48
+GATSBY-BROWSER 08:50
+Navbar 08:31
+Hero 15:23
+Services 06:12
+Important Update!!! 00:15
+Setup Strapi 06:05
+Content-Type 05:39
+Content 05:00
+Strapi Source Plugin Update !!! 00:15
+Connect Strapi - Gatsby 04:39
+Jobs Query 03:15
+Single Job 08:10
+Jobs Logic 05:17
+Sort Jobs 02:29
+Project Content-Type 04:54
+Project Content 03:36
+Strapi Source Plugin Update !!! 00:10
+Project Query 03:46
+Projects Component 07:41
+Single Project Component 07:04
+Projects Page 02:19
+Setup Project Pages Programmatically 04:59
+Project Template 06:10
+Strapi Source Plugin Update 00:08
+About Page - Setup 04:53
+About Page - Complete 06:13
+Error Page and Footer 04:35
+Contact Page 03:14
+Sidebar Setup 07:53
+Sidebar Logic 05:27
+Initial Deploy 02:47
+siteMetadata 05:56
+SEO Component 15:33
+Complete Project 08:27
+Source Code 00:02
+
+MDX Blog (5h4m)
+========
+Intro 00:29
+Starter Project 00:04
+Install 01:47
+Project Overview 02:43
+Plugins and main.css 02:58
+Navbar 07:16
+Sidebar 03:43
+Sidebar Toggle 03:33
+Hero 03:35
+Footer 02:08
+Error Page 02:20
+Newsletter Info 04:51
+Collect Form Values in Netlify 09:27
+MDX Setup 04:49
+MDX Extension 00:02
+Basic Markdown 05:26
+Basic Styling 05:37
+First React Component 04:01
+Nice Text 04:34
+Complete Components Info 05:52
+Counter and Like Button 04:35
+Posts Intro 05:49
+Single Post Setup 05:00
+Frontmatter 06:21
+Home Query 08:29
+Posts Component 05:10
+Single Post Component 05:46
+Posts Page 02:11
+Create Post Pages Programmatically 09:00
+Single Post Query 04:32
+Post Template Complete 05:15
+Categories Setup 13:04
+Categories Query 04:05
+Categories JSX 02:28
+Banner About 04:43
+Banner Recent 06:54
+Banner Categories 08:01
+Navbar Categories 03:02
+Inline Images with Remark Images Plugin 14:00
+Inline Images with GatsbyImage 09:50
+Regular Video 10:47
+External Video 07:42
+MDX Wrapper Intro 06:26
+Root MDX 09:13
+First MDX Example 06:29
+MDX - props / children 05:38
+MDX - Component Example 05:54
+MDX - H2 06:09
+MDX - H4 02:36
+Inline Code 05:42
+MDX - Blockquote 09:53
+Prism Setup 09:20
+Prism Config 10:15
+My Example 04:09
+Finished Project 00:02
+
+Design Project - Airtable (4h7m)
+===============
+Intro 00:37
+Starter Project 00:06
+Bootstrap Starter 01:51
+Starter Info 01:47
+Global Styles with Styled-Components 06:54
+Root Wrapper 03:38
+Hero 05:33
+Navbar 04:53
+About and Title Components 06:15
+Airtable Info 04:39
+Airtable Setup 02:16
+First Table 12:06
+API Docs and Keys 03:10
+API KEYS 00:20
+Connect Airtable and Gatsby 09:03
+Latest Project Query 04:06
+Projects Component 09:28
+Customers Table 04:57
+Customers Query 06:18
+Customers Slider Info 01:01
+Survey Setup 09:45
+Survey Fetch Items 08:26
+Survey - Display Items 05:42
+Survey - Update Items 07:56
+Alternative Loading Setup 03:00
+All Projects Query 03:24
+Search Buttons - Setup 04:10
+Search Buttons - Complete 09:39
+Algolia - Intro 03:20
+Algolia - ENV VARS 00:06
+Algolia - Account Setup 06:15
+Algolia - Plugin Setup 04:30
+Algolia - Query Setup 11:16
+Algolia - Basic Front-End 08:14
+Algolia - SearchBox Component 03:06
+Algolia - New Hits 07:03
+Context API 11:28
+Nested Links Info (sublinks) 10:24
+Sidebar 11:37
+Payments Page 03:57
+Toggle Sidebar 04:35
+Navbar - Sublinks 12:19
+Tile Layout 07:54
+Source Code 00:02
